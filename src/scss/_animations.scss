@@ -88,101 +88,7 @@
     }
 }
 
-// .light-slide-down-fix {
-//     @include light-slide-down-fix;
-// }
 
-// .light-slide-down {
-//     @include light-slide-down;
-// }
-
-// .light-slide-up-fix {
-//     @include light-slide-up-fix;
-// }
-
-// .light-slide-up {
-//     @include light-slide-up;
-// }
-
-// .light-slide-left-fix {
-//     @include light-slide-left-fix;
-// }
-
-// .light-slide-left {
-//     @include light-slide-left;
-// }
-
-// .light-slide-right-fix {
-//     @include light-slide-right-fix;
-// }
-
-// .light-slide-right {
-//     @include light-slide-right;
-// }
-
-// .tran-del-10 {
-//     @include tran-del-10;
-// }
-
-// .tran-del-15 {
-//     @include tran-del-15;
-// }
-
-// .tran-del-20 {
-//     @include tran-del-20;
-// }
-
-// .tran-del-25 {
-//     @include tran-del-25;
-// }
-
-// .tran-del-30 {
-//     @include tran-del-30;
-// }
-
-// .tran-del-35 {
-//     @include tran-del-35;
-// }
-
-// .tran-del-40 {
-//     @include tran-del-40;
-// }
-
-// .tran-del-50 {
-//     @include tran-del-50;
-// }
-
-// .tran-del-70 {
-//     @include tran-del-70;
-// }
-
-// .tran-del-75 {
-//     @include tran-del-75;
-// }
-
-// .tran-del-100 {
-//     @include tran-del-100;
-// }
-
-// .tran-del-125 {
-//     @include tran-del-125;
-// }
-
-// .tran-del-150 {
-//     @include tran-del-150;
-// }
-
-// .tran-del-200 {
-//     @include tran-del-200;
-// }
-
-// .tran-del-250 {
-//     @include tran-del-250;
-// }
-
-// .tran-del-300 {
-//     @include tran-del-300;
-// }
 
 /*
 
@@ -195,7 +101,6 @@
     visibility: visible;
     opacity: 0;
     transition: all 1s ease;
-    // transition-delay: 0.2s;
 
     &.active {
         transform: translate(0, 0);
@@ -220,7 +125,6 @@
     visibility: visible;
     opacity: 0;
     transition: all 1s ease;
-    // transition-delay: 0.2s;
 
     &.active {
         transform: translate(0, 0);
