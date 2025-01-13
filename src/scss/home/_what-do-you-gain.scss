@@ -1,45 +1,20 @@
 .what-do-you-gain {
-   // padding: 120px 0;
-   // padding-bottom: 120px;
-
-   @media (max-width: 575px) {
-      // padding-bottom: 88px;
-   }
-
-   // .what-do-you-gain__img-border
-
    &__img-border {
       position: relative;
       display: flex;
       justify-content: center;
       align-items: center;
    }
-
-   // .what-do-you-gain__img-wrapper
-
    &__img-wrapper {
       position: relative;
-
       overflow: hidden;
    }
-
    .img-big {
       width: 100vw;
       height: 894px;
       object-fit: cover;
       object-position: center;
       filter: brightness(0.4);
-
-      // img {
-      //    height: 100% !important;
-      //    max-height: 894px !important;
-      // }
-
-      // object-fit: cover;
-      // object-position: center;
-      // display: block;
-      // margin-left: calc(50% - 50vw);
-
       @media (max-width: 1199px) {
          object-fit: cover;
          height: 750px;
@@ -72,25 +47,16 @@
          width: 100%;
          height: 100%;
       }
-
-      @media (max-width: 575px) {
-         // gap: 100px;
-      }
-
       @media (max-width: 320px) {
          overflow: hidden;
       }
    }
 
    .left {
-      // .left__container
 
       &__container {
          display: block;
-         // justify-content: center;
-         // align-items: center;
          padding-top: 200px;
-
          @media (max-width: 1199px) {
             display: flex;
             justify-content: center;
@@ -104,8 +70,6 @@
          }
       }
 
-      // .left__txt-wrapper
-
       &__txt-wrapper {
          display: grid;
          gap: 32px;
@@ -115,9 +79,6 @@
             padding-top: 100px;
          }
       }
-
-      // .left__title
-
       &__title {
          display: grid;
 
@@ -162,10 +123,6 @@
             }
          }
       }
-
-      // .right__first-column
-      // .right__second-column
-
       &__first-column,
       &__second-column {
          display: grid;
@@ -176,9 +133,6 @@
             gap: 0;
          }
       }
-
-      // .right__first-column
-
       &__first-column {
          padding-right: 16px;
          padding-bottom: 35px;
@@ -188,9 +142,6 @@
             padding-bottom: 0;
          }
       }
-
-      // .right__second-column
-
       &__second-column {
          padding-top: 35px;
 
@@ -198,15 +149,9 @@
             padding-top: 0;
          }
       }
-
-      // .right__box-mobile
-
       &__box-mobile {
          opacity: 1;
       }
-
-      // .right__box
-
       &__box {
          width: 373px;
          height: 186px;
@@ -296,29 +241,6 @@
          @media (max-width: 300px) {
             width: 280px;
          }
-
-         // &.active {
-         //   opacity: 1;
-         //   border: 1px solid var(--purple);
-         //   border-color: var(--purple);
-
-         //   @media (max-width: 1199px) {
-         //     display: none;
-         //   }
-         // }
-
-         // &:hover {
-         //   opacity: 1;
-         //   background-color: var(--purple);
-
-         //   @media (max-width: 1199px) {
-         //     display: none;
-         //   }
-         // }
-      }
-
-      // .right__box-inside
-
       &__box-inside {
          display: grid;
          gap: 16px;
@@ -328,7 +250,6 @@
          }
       }
    }
-
    .txt-title {
       width: 100%;
       max-width: 170px;
@@ -395,4 +316,5 @@
          height: auto;
       }
    }
+}
 }

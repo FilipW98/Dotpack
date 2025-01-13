@@ -1,17 +1,14 @@
 .integrations,
 .integrations-reflection {
      overflow: hidden;
-
      .circle {
           &__circle {
                display: none;
           }
      }
-
      .main-title {
           display: grid;
           padding-bottom: 32px;
-          // padding-bottom: 40px;
 
           @media (max-width: 1199px) {
                text-align: center;
@@ -22,33 +19,26 @@
                text-align: start;
           }
      }
-
      .desc-border {
           width: 100%;
           max-width: 460px;
      }
-
      .thin-info-border {
           padding-top: 40px;
      }
-
      .thin-info {
           color: var(--purple);
           font-weight: 600;
      }
-
      .button-border {
           display: flex;
-          // padding-top: 40px;
           padding-top: 16px;
           position: relative;
 
           @media (max-width: 1199px) {
                justify-content: center;
                align-items: center;
-               // padding-top: 24px;
           }
-
           @media (max-width: 575px) {
                display: block;
           }

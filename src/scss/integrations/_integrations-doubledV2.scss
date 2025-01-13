@@ -1,18 +1,13 @@
 .integrations-doubledV2 {
-     // padding-bottom: 140px;
-     // overflow-x: visible;
      padding-top: 50px;
-
      &__outer {
           padding-bottom: 104px;
           display: flex;
           justify-content: center;
-
           @media (max-width: 575px) {
                padding-bottom: 72px;
           }
      }
-
      &__inner {
           width: 100%;
           max-width: 1300px;
@@ -22,7 +17,6 @@
           display: flex;
           justify-content: space-around; // justify-content: space-evenly;
           align-items: center;
-
           @media (max-width: 1199px) {
                display: grid;
                justify-content: center;
@@ -58,23 +52,11 @@
           }
      }
 
-     // &__circle-move-big {
-     //      width: 20px;
-     //      height: 20px;
-     //      border-radius: 50%;
-     //      background-color: var(--purple);
-     //      position: absolute;
-     //      z-index: 1;
-     // }
-
      .integrations-doubledV2__carousel-wrapper {
           display: flex;
           justify-content: center;
           align-items: center;
           position: relative;
-     }
-
-     .integrations-doubledV2__circle-move-small {
      }
 
      .integrations-doubledV2__circle-move-big,
@@ -91,15 +73,10 @@
      }
 
      &__carousel-big {
-          // position: relative;
-          // width: 100%;
-          // height: 100%;
-
           position: relative;
           width: 494px;
           height: 494px;
      }
-
      &__carousel-small {
           position: absolute;
           top: 50%;
@@ -108,10 +85,8 @@
           width: 304px;
           height: 304px;
      }
-
      &__box-logo {
           --radius: 110px;
-
           width: 110px;
           height: 110px;
           border-radius: 50%;
@@ -129,14 +104,11 @@
           transition: background-color 0.3s, border 0.3s, box-shadow 0.3s,
                transform 0.3s ease-in-out;
           padding: 20px;
-
           &.active {
-               // background-color: var(--purple);
                -webkit-box-shadow: 0px 0px 20px 0px rgba(124, 105, 183, 1);
                -moz-box-shadow: 0px 0px 20px 0px rgba(124, 105, 183, 1);
                box-shadow: 0px 0px 20px 0px rgba(124, 105, 183, 1);
           }
-
           &.center {
                background: radial-gradient(
                     circle,
@@ -156,7 +128,6 @@
                height: 86px;
                left: 100%;
           }
-
           &.logo-5 {
                top: 15%;
                left: 15%;
@@ -249,50 +220,23 @@
 
      &__button-border {
           display: flex;
-          // padding-top: 40px;
           padding-top: 16px;
           position: relative;
-
           @media (max-width: 1199px) {
                justify-content: center;
                align-items: center;
-               // padding-top: 24px;
           }
-
           @media (max-width: 575px) {
                display: block;
           }
      }
-
      &__button {
           padding: 20px 40px;
           cursor: pointer;
           z-index: 5;
      }
-
-     .svg-fade {
-          // opacity: 0;
-          // visibility: hidden;
-          // transition: opacity 1s ease-in-out, visibility 0s 1s;
-     }
-
-     .svg-fade.visible {
-          // opacity: 1;
-          // visibility: visible;
-          // transition: opacity 1s ease-in-out;
-     }
-
-     .svg-fade.hidden {
-          // opacity: 0;
-          // visibility: hidden;
-          // transition: opacity 1s ease-in-out, visibility 0s 1s;
-     }
-
      .logo {
           position: relative;
           z-index: 3;
-     }
-
-     .test {
      }
 }

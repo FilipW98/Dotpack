@@ -4,84 +4,51 @@
   @media (max-width: 575px) {
     padding-bottom: 88px;
   }
-
-  // .our-mission__outer
-
   &__outer {
     display: flex;
     justify-content: center;
   }
-
-  // .our-mission__inner
-
   &__inner {
     width: 100%;
     max-width: 1162px;
   }
-
-  // .our-mission__wrapper
-
   &__wrapper {
     display: flex;
     justify-content: space-between;
     padding: 0 20px;
-
     @media (max-width: 575px) {
       display: grid;
       justify-content: baseline;
       padding: 0 16px;
     }
   }
-
   .left {
-    // .left__container
-
     &__container {
       display: grid;
       width: 100%;
       max-width: 460px;
-
       @media (max-width: 575px) {
         margin-left: 0px;
         padding-top: 0;
         max-width: none;
       }
     }
-
-    // .left__bold-title
-
     &__bold-title {
       padding-bottom: 32px;
       width: fit-content;
-
-      // i {
-      //   font-weight: 300;
-      // }
-
       @media (max-width: 575px) {
         font-size: 32px;
       }
     }
-
-    // .left__thin-title
-
     &__thin-title {
       display: grid;
     }
-
-    // .left__txt-wrapper
-
     &__txt-wrapper {
       @media (max-width: 575px) {
         display: grid;
         gap: 24px;
       }
     }
-
-    // .left__first-txt-border
-    // .left__second-txt-border
-    // .left__third-txt-border
-
     &__first-txt-border,
     &__second-txt-border,
     &__third-txt-border {
@@ -89,16 +56,10 @@
         padding: 12px 0;
       }
     }
-
-    // .left__list-wrapper
-
     &__list-wrapper {
       display: grid;
       gap: 12px;
     }
-
-    // .left__sub-item
-
     &__sub-item {
       padding-left: 16px;
 
@@ -106,9 +67,6 @@
         padding-left: 8px;
       }
     }
-
-    // .left__button-border
-
     &__button-border {
       display: flex;
 
@@ -116,59 +74,41 @@
         display: block;
       }
     }
-
-    // .left__button
-
     &__button {
       margin-top: 32px;
       padding: 20px 40px;
     }
-
-    // .left__listOf-sub-item
-
     &__listOf-sub-item {
       display: flex;
       align-items: center;
       padding: 0;
       padding: 16px 0;
-
       @media (max-width: 575px) {
         padding: 0;
         justify-content: center;
       }
     }
   }
-
   .right {
     padding-top: 0;
     display: flex;
     align-items: center;
-
     @media (max-width: 767px) {
       align-items: baseline;
     }
-
     @media (max-width: 575px) {
       padding-top: 40px;
     }
-
-    // .right__container
-
     &__container {
       margin-left: 80px;
-
       @media (max-width: 900px) {
         margin-left: 10px;
       }
-
       @media (max-width: 575px) {
         padding-right: 0;
         margin-left: 0;
       }
     }
-
-    // .right__image
-
     &__image {
       border-radius: 30px;
     }

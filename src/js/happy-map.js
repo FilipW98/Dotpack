@@ -1,7 +1,7 @@
 window.addEventListener('load', function () {
 	const tag = document.createElement('script');
 	tag.src =
-		'https://maps.googleapis.com/maps/api/js?key=AIzaSyBBTw5E7dVbIrVtibXwXhCSMzwv089_FeQ&callback=initMap&libraries=&v=weekly';
+		'https://maps.googleapis.com/maps/api/js?somesensetivekey';
 	document.getElementsByTagName('head')[0].appendChild(tag);
 	// Initialize and add the map
 });
