@@ -1,0 +1,500 @@
+10/02/24 9:05:31: solutions.scss - `solutions/_additional-services.scss` file not found for @import: solutions.scss on line 1, at column 0
+10/02/24 9:05:32: solutions.scss - `solutions/_additional-services.scss` file not found for @import: solutions.scss on line 1, at column 0
+10/03/24 9:04:15: home.scss - Undefined mixin header-40: flex-components/_contact-form.scss on line 97, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+10/03/24 9:04:22: home.scss - Undefined mixin header-40: flex-components/_contact-form.scss on line 97, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+10/03/24 9:05:21: home.scss - Undefined mixin header-40: flex-components/_contact-form.scss on line 97, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+10/03/24 9:05:37: home.scss - Undefined mixin header-40: flex-components/_contact-form.scss on line 97, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+10/03/24 9:06:15: home.scss - Undefined mixin header-40: flex-components/_contact-form.scss on line 97, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+10/03/24 9:06:43: home.scss - Undefined mixin header-40: flex-components/_contact-form.scss on line 97, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+10/03/24 11:47:11: solutions.scss - parse error: failed at `{` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/solutions/_acceptance-of-products.scss on line 57, at column 6
+10/03/24 1:51:33: home.scss - `flex-components/_develop.scss` file not found for @import: home.scss on line 1, at column 0
+10/04/24 8:54:59: contact.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/contact.scss on line 1, at column 0
+10/04/24 8:56:07: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:56:13: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:56:59: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:57:07: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:57:07: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:57:14: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:57:29: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:58:07: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:58:08: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 8:58:08: contact.scss - `contact/_contact-page-form.scss` file not found for @import: contact.scss on line 1, at column 0
+10/04/24 1:16:53: solutions.scss - Incompatible units vw and px.: solutions/_acceptance-of-products.scss on line 84, at column 9
+Call Stack:
+#0 import solutions/_acceptance-of-products.scss solutions.scss on line 1
+10/04/24 1:17:22: solutions.scss - Incompatible units vw and px.: solutions/_acceptance-of-products.scss on line 84, at column 9
+Call Stack:
+#0 import solutions/_acceptance-of-products.scss solutions.scss on line 1
+10/04/24 1:17:24: solutions.scss - Incompatible units vw and px.: solutions/_acceptance-of-products.scss on line 84, at column 9
+Call Stack:
+#0 import solutions/_acceptance-of-products.scss solutions.scss on line 1
+10/04/24 1:17:40: solutions.scss - Incompatible units vw and px.: solutions/_acceptance-of-products.scss on line 84, at column 9
+Call Stack:
+#0 import solutions/_acceptance-of-products.scss solutions.scss on line 1
+10/04/24 1:17:52: solutions.scss - Incompatible units vw and px.: solutions/_acceptance-of-products.scss on line 84, at column 9
+Call Stack:
+#0 import solutions/_acceptance-of-products.scss solutions.scss on line 1
+10/04/24 3:50:04: home.scss - parse error: failed at `pad ding: 56px 40px 40px;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/_contact-form.scss on line 65, at column 3
+10/04/24 3:51:03: home.scss - parse error: failed at `pad ding: 56px 40px 40px;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/_contact-form.scss on line 65, at column 3
+10/04/24 3:53:04: home.scss - parse error: failed at `pad ding: 56px 40px 40px;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/_contact-form.scss on line 65, at column 3
+10/04/24 3:55:03: home.scss - parse error: failed at `pad ding: 56px 40px 40px;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/_contact-form.scss on line 65, at column 3
+10/06/24 8:31:20: 404.scss - Undefined variable $circle-size: 404.scss on line 244, at column 7
+10/06/24 8:31:33: 404.scss - Undefined variable $circle-size: 404.scss on line 244, at column 7
+10/06/24 8:31:46: 404.scss - Undefined variable $circle-size: 404.scss on line 244, at column 7
+10/06/24 8:33:15: 404.scss - Undefined variable $circle-size: 404.scss on line 244, at column 7
+10/06/24 8:37:23: 404.scss - Undefined variable $circle-size: 404.scss on line 247, at column 7
+10/06/24 8:37:58: 404.scss - Undefined variable $circle-size: 404.scss on line 247, at column 7
+10/06/24 8:39:39: 404.scss - Undefined variable $circle-size: 404.scss on line 247, at column 7
+10/06/24 8:39:51: 404.scss - Undefined variable $circle-size: 404.scss on line 247, at column 7
+10/06/24 8:40:48: 404.scss - Undefined variable $circle-size: 404.scss on line 244, at column 7
+10/06/24 8:41:08: 404.scss - Undefined variable $circle-size: 404.scss on line 244, at column 7
+10/06/24 8:41:46: 404.scss - Undefined variable $circle-size: 404.scss on line 199, at column 7
+10/06/24 9:12:18: 404.scss - Undefined variable $circle-size: 404.scss on line 110, at column 7
+10/06/24 9:12:37: 404.scss - Undefined variable $circle-size: 404.scss on line 110, at column 7
+10/06/24 9:13:37: 404.scss - Undefined variable $circle-size: 404.scss on line 109, at column 9
+10/06/24 9:13:54: 404.scss - Undefined variable $circle-size: 404.scss on line 110, at column 7
+10/06/24 11:19:36: 404.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/404.scss on line 90, at column 0
+10/06/24 2:39:14: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:21: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:22: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:31: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:34: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:35: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:35: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:38: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:39:55: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:40:18: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:40:20: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:40:21: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:40:22: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:40:25: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 2:41:56: about-us.scss - `about-us/_we-belive.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/06/24 3:05:55: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 17, at column 7
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/06/24 3:06:10: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 17, at column 7
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/06/24 3:06:13: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 17, at column 7
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/06/24 3:06:25: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 17, at column 7
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/06/24 3:12:49: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 17, at column 7
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/06/24 3:13:07: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 17, at column 7
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/06/24 3:55:58: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 93, at column 11
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/07/24 7:06:35: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 30, at column 5
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/07/24 7:06:49: about-us.scss - Undefined variable $circle-size: about-us/_we-believe.scss on line 30, at column 5
+Call Stack:
+#0 import about-us/_we-believe.scss about-us.scss on line 1
+10/07/24 12:24:36: contact.scss - `flex-components/_our-history.scss` file not found for @import: contact.scss on line 4, at column 1
+10/08/24 8:00:20: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:00:59: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:01:15: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:01:26: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:01:27: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:01:38: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:02:20: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:02:43: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:02:44: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:02:57: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 8:03:37: privacy-policy.scss - parse error: failed at `@include 'privacy-policy/_privacy-policy-text.scss';` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/privacy-policy.scss on line 1, at column 0
+10/08/24 9:45:35: solutions.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/solutions/_acceptance-of-products.scss on line 148, at column 0
+10/09/24 10:44:07: 404.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:44:07: home.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+#1 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:44:07: privacy-policy.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss privacy-policy.scss on line 2
+#1 import flex-components/_contact-form.scss home.scss on line 3
+#2 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:44:14: 404.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:44:14: home.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+#1 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:44:14: privacy-policy.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss privacy-policy.scss on line 2
+#1 import flex-components/_contact-form.scss home.scss on line 3
+#2 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:46:43: 404.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:46:43: home.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+#1 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:46:43: privacy-policy.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss privacy-policy.scss on line 2
+#1 import flex-components/_contact-form.scss home.scss on line 3
+#2 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:46:46: 404.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:46:46: home.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+#1 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:46:46: privacy-policy.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss privacy-policy.scss on line 2
+#1 import flex-components/_contact-form.scss home.scss on line 3
+#2 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:48:39: 404.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:48:39: home.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+#1 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:48:39: privacy-policy.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss privacy-policy.scss on line 2
+#1 import flex-components/_contact-form.scss home.scss on line 3
+#2 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:48:44: 404.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:48:44: home.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss home.scss on line 3
+#1 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 10:48:44: privacy-policy.scss - Undefined mixin body-24: flex-components/_contact-form.scss on line 228, at column 4
+Call Stack:
+#0 import flex-components/_contact-form.scss privacy-policy.scss on line 2
+#1 import flex-components/_contact-form.scss home.scss on line 3
+#2 import flex-components/_contact-form.scss 404.scss on line 2
+10/09/24 11:46:50: career.scss - `carrer/_application.scss` file not found for @import: career.scss on line 2, at column 1
+10/10/24 4:02:19: solutions.scss - parse error: failed at `min-height: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/solutions/_additional-services.scss on line 40, at column 7
+10/10/24 4:02:19: services.scss - parse error: failed at `min-height: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/solutions/_additional-services.scss on line 40, at column 7
+10/10/24 4:02:19: career.scss - parse error: failed at `min-height: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/solutions/_additional-services.scss on line 40, at column 7
+10/11/24 12:41:03: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:03: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:06: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:07: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:08: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:09: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:12: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:12: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:14: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:15: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:16: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:17: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:22: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:22: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 12:41:27: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 668, at column 5
+10/11/24 1:14:40: live.scss - Undefined mixin body-16p: _footer.scss on line 252, at column 9
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:14:42: live.scss - Undefined mixin body-16p: _footer.scss on line 252, at column 9
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:15:11: live.scss - Undefined mixin body-16p: _footer.scss on line 252, at column 9
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:15:26: live.scss - Undefined mixin body-16p: _footer.scss on line 252, at column 9
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:15:38: live.scss - Undefined mixin body-16p: _footer.scss on line 252, at column 9
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:26: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:34: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:35: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:39: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:51: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:53: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:19:55: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:20:06: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:20:10: live.scss - Undefined mixin body-32: _footer.scss on line 383, at column 13
+Call Stack:
+#0 import _footer.scss live.scss on line 5
+10/11/24 1:37:32: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:37:43: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:37:44: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:39:07: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:39:08: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:39:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:39:49: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:04: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:19: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:34: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:37: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:38: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:39: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:39: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:52: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:54: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:40:58: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:03: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:09: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:20: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:24: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:24: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:30: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:34: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:39: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:40: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:44: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:47: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:53: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:54: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:41:58: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:42:02: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:42:10: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:42:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:42:45: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:43:02: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:43:17: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:43:32: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:44:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:44:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:45:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:45:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:45:43: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:46:14: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:46:15: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:46:43: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:47:33: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:47:34: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:47:43: about-us.scss - `about-us/_our-mission.scss` file not found for @import: about-us.scss on line 1, at column 0
+10/11/24 1:52:32: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:35: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:36: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:40: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:45: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:50: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:50: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:53: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:53: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:54: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:54: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:55: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:56: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:52:56: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:53:00: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 1:53:01: career.scss - parse error: failed at `mb40` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 66, at column 13
+10/11/24 2:13:24: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 702, at column 35
+10/11/24 2:14:30: career.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_application.scss on line 294, at column 37
+10/12/24 10:14:21: about-us.scss - parse error: failed at `align-items: ` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/_simple.scss on line 82, at column 5
+10/12/24 8:20:14: about-us.scss - `flex-components/_simple.scss` file not found for @import: about-us.scss on line 4, at column 1
+10/12/24 8:20:30: about-us.scss - `flex-components/_simple.scss` file not found for @import: about-us.scss on line 4, at column 1
+10/14/24 11:57:42: career.scss - parse error: failed at `height: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_join-team.scss on line 301, at column 3
+10/14/24 11:57:42: career.scss - parse error: failed at `height: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/career/_join-team.scss on line 301, at column 3
+10/16/24 8:16:39: home.scss - $color: var(--purple) is not a color.: home/_what-do-you-gain.scss on line 79, at column 9
+Call Stack:
+#0 import home/_what-do-you-gain.scss home.scss on line 5
+10/16/24 8:16:41: home.scss - $color: var(--purple) is not a color.: home/_what-do-you-gain.scss on line 79, at column 9
+Call Stack:
+#0 import home/_what-do-you-gain.scss home.scss on line 5
+10/16/24 10:20:56: home.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_what-do-you-gain.scss on line 161, at column 0
+10/16/24 10:55:05: home.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_what-do-you-gain.scss on line 175, at column 0
+10/17/24 7:32:49: home.scss - $color1: var(--purple) is not a color.: home/_what-do-you-gain.scss on line 182, at column 9
+Call Stack:
+#0 import home/_what-do-you-gain.scss home.scss on line 5
+10/17/24 7:32:51: home.scss - $color1: var(--purple) is not a color.: home/_what-do-you-gain.scss on line 182, at column 9
+Call Stack:
+#0 import home/_what-do-you-gain.scss home.scss on line 5
+10/17/24 7:32:51: home.scss - $color1: var(--purple) is not a color.: home/_what-do-you-gain.scss on line 182, at column 9
+Call Stack:
+#0 import home/_what-do-you-gain.scss home.scss on line 5
+10/17/24 9:16:46: home.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_problems.scss on line 122, at column 0
+10/17/24 10:24:16: integrations.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/integrations.scss on line 1, at column 0
+10/17/24 10:24:19: integrations.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/integrations.scss on line 1, at column 0
+10/17/24 10:24:23: integrations.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/integrations.scss on line 1, at column 0
+10/17/24 10:24:31: integrations.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/integrations.scss on line 1, at column 0
+10/17/24 10:24:46: integrations.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/integrations.scss on line 1, at column 0
+10/17/24 10:25:22: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:24: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:24: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:28: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:28: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:43: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:55: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:57: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:57: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:25:58: integrations.scss - `flex-components/` file not found for @import: integrations.scss on line 1, at column 0
+10/17/24 10:30:55: home.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_problems.scss on line 132, at column 0
+10/17/24 10:31:06: home.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_problems.scss on line 138, at column 0
+10/17/24 11:09:30: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:10:00: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:10:03: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:10:03: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:10:44: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:10:46: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:10:46: faq.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/faq.scss on line 1, at column 0
+10/17/24 11:11:31: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:42: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:43: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:48: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:48: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:49: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:50: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:51: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:53: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:56: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:11:59: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:01: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:08: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:16: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:31: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:31: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:43: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:46: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:46: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:12:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:01: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:08: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:08: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:09: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:10: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:10: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:11: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:11: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:13: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:15: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:16: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:25: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:33: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:33: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:34: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:35: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:48: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:54: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:13:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:03: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:18: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:33: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:39: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:43: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:47: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:48: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:48: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:50: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:50: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:53: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:54: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:54: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:14:55: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:15:07: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:15:22: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:15:37: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:15:52: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:06: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:07: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:08: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:08: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:08: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:09: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:10: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:11: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:13: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:26: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:16:28: faq.scss - `flex-componnets/_breadcrumbs.scss` file not found for @import: faq.scss on line 1, at column 0
+10/17/24 11:59:40: home.scss - parse error: failed at `/` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_problems.scss on line 101, at column 45
+10/17/24 11:59:41: home.scss - parse error: failed at `/` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_problems.scss on line 101, at column 45
+10/18/24 9:07:16: blog_post.scss - `flex-components/post/_flex-photo-gallery.scss` file not found for @import: blog_post.scss on line 3, at column 1
+10/18/24 9:07:17: blog_post.scss - `flex-components/post/_flex-photo-gallery.scss` file not found for @import: blog_post.scss on line 3, at column 1
+10/18/24 9:07:17: blog_post.scss - `flex-components/post/_flex-photo-gallery.scss` file not found for @import: blog_post.scss on line 3, at column 1
+10/18/24 9:07:18: blog_post.scss - `flex-components/post/_flex-photo-gallery.scss` file not found for @import: blog_post.scss on line 3, at column 1
+10/18/24 9:54:11: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-contents.scss on line 1, at column 0
+10/18/24 9:54:13: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-contents.scss on line 1, at column 0
+10/18/24 9:54:13: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-contents.scss on line 1, at column 0
+10/18/24 9:54:28: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-contents.scss on line 1, at column 0
+10/18/24 9:54:29: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-contents.scss on line 1, at column 0
+10/18/24 9:54:29: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-contents.scss on line 1, at column 0
+10/21/24 12:17:45: blog_post.scss - parse error: failed at `.` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-post-map.scss on line 1, at column 0
+10/21/24 3:02:23: blog_post.scss - parse error: failed at `color: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/post/_flex-columns-text.scss on line 108, at column 6
+10/21/24 4:15:38: blog_post.scss - `flex-components/post/_flex-img-text.scss` file not found for @import: blog_post.scss on line 2, at column 1
+10/21/24 4:15:39: blog_post.scss - `flex-components/post/_flex-img-text.scss` file not found for @import: blog_post.scss on line 2, at column 1
+10/21/24 4:16:01: blog_post.scss - `flex-components/post/_flex-img-text.scss` file not found for @import: blog_post.scss on line 2, at column 1
+10/22/24 10:48:46: faq.scss - $color: var(--purple) is not a color.: faq/_faq.scss on line 132, at column 9
+Call Stack:
+#0 import faq/_faq.scss faq.scss on line 4
+10/22/24 10:48:48: faq.scss - $color: var(--purple) is not a color.: faq/_faq.scss on line 132, at column 9
+Call Stack:
+#0 import faq/_faq.scss faq.scss on line 4
+10/25/24 12:17:00: live.scss - Undefined mixin small-fat: _header.scss on line 543, at column 13
+Call Stack:
+#0 import _header.scss live.scss on line 4
+10/25/24 12:17:02: live.scss - Undefined mixin small-fat: _header.scss on line 543, at column 13
+Call Stack:
+#0 import _header.scss live.scss on line 4
+10/25/24 12:17:02: live.scss - Undefined mixin small-fat: _header.scss on line 543, at column 13
+Call Stack:
+#0 import _header.scss live.scss on line 4
+10/25/24 12:17:14: live.scss - Undefined mixin caption: _header.scss on line 628, at column 13
+Call Stack:
+#0 import _header.scss live.scss on line 4
+10/25/24 12:17:15: live.scss - Undefined mixin caption: _header.scss on line 628, at column 13
+Call Stack:
+#0 import _header.scss live.scss on line 4
+10/25/24 12:17:15: live.scss - Undefined mixin caption: _header.scss on line 628, at column 13
+Call Stack:
+#0 import _header.scss live.scss on line 4
+10/25/24 12:44:54: home.scss - parse error: failed at `enter;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/flex-components/_intro.scss on line 96, at column 13
+10/28/24 9:00:59: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 909, at column 0
+10/28/24 9:00:59: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 909, at column 0
+10/28/24 9:00:59: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 909, at column 0
+10/28/24 9:01:08: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 909, at column 0
+10/28/24 9:01:09: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 909, at column 0
+10/28/24 9:01:11: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 909, at column 0
+10/28/24 12:12:01: live.scss - unclosed block: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 625, at column 0
+10/28/24 12:24:23: live.scss - unexpected }: failed at `` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/_header.scss on line 1366, at column 0
+10/29/24 1:09:59: home.scss - parse error: failed at `/` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_integrations.scss on line 155, at column 1
+10/29/24 10:53:32: integrations.scss - `integrations/_integrations.scss` file not found for @import: integrations.scss on line 5, at column 1
+10/29/24 10:53:47: integrations.scss - `integrations/_integrations.scss` file not found for @import: integrations.scss on line 5, at column 1
+10/29/24 10:54:03: integrations.scss - `integrations/_integrations.scss` file not found for @import: integrations.scss on line 5, at column 1
+10/30/24 7:23:43: integrations.scss - parse error: failed at `{` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/integrations/_integrations.scss on line 10, at column 2
+10/30/24 11:47:32: home.scss - parse error: failed at `margin-left: ;` /home/dm68796/strony_robocze/dot.hiforyou.pl/wp-content/themes/happytheme/src/scss/home/_trust.scss on line 45, at column 9

@@ -1,0 +1,9 @@
+.intro {
+     &__middle {
+          &-desc {
+               @media (max-width: 991px) {
+                    max-width: 309px;
+               }
+          }
+     }
+}

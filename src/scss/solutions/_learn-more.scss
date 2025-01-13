@@ -1,0 +1,116 @@
+.learn-more {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 120px;
+
+  @media (max-width: 575px) {
+    padding-bottom: 88px;
+  }
+
+  &__desktop-img {
+    padding: 0 20px;
+    position: relative;
+
+    @media (max-width: 614px) {
+      display: none;
+    }
+
+    & > picture > img {
+      border-radius: 30px;
+    }
+  }
+
+  &__mobile-img {
+    display: none;
+    padding: 0 20px;
+    position: relative;
+
+    @media (max-width: 614px) {
+      display: block;
+    }
+
+    & > picture > img {
+      border-radius: 30px;
+    }
+  }
+
+  .image-txt {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--white);
+
+    @media (max-width: 614px) {
+      top: 70%;
+      left: 40%;
+    }
+  }
+
+  .image-title {
+    display: grid;
+    font-family: "Plus Jakarta Sans";
+
+    @media (max-width: 575px) {
+      font-size: 28px;
+    }
+
+    i {
+      font-weight: 300;
+    }
+  }
+
+  .image-txt-mobile {
+    position: absolute;
+    display: grid;
+    gap: 32px;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    top: 78%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--white);
+
+    @media (max-width: 370px) {
+      gap: 10px;
+    }
+  }
+
+  .button-desktop {
+    padding: 20px 40px;
+
+    @media (max-width: 1000px) {
+      padding: 15px 35px;
+    }
+  }
+
+  .button-mobile {
+    padding: 20px 40px;
+
+    @media (max-width: 370px) {
+      padding: 10px 20px;
+    }
+  }
+
+  .arrow {
+    margin-left: 8px;
+  }
+
+  .button-desktop .arrow {
+    transition: transform 0.3s ease;
+  }
+
+  .button-desktop:hover .arrow {
+    transform: translateX(5px);
+  }
+
+  .button-desktop:hover .arrow {
+    transform: translateX(5px);
+  }
+}

@@ -1,0 +1,125 @@
+.privacy-policy {
+	position: relative;
+	&__outer {
+		margin: 0px auto;
+		position: relative;
+		max-width: 1440px;
+		padding: 56px 60px 120px 60px;
+
+		@media (max-width: 1199px) {
+			padding: 56px 40px 100px;
+		}
+		@media (max-width: 991px) {
+			padding: 56px 25px 70px;
+		}
+		@media (max-width: 767px) {
+			padding: 56px 25px 40px;
+		}
+		@media (max-width: 575px) {
+			padding: 56px 25px 0px;
+		}
+		@media (max-width: 450px) {
+			padding: 56px 16px 0px;
+		}
+	}
+	&__inner {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		margin: 0px auto;
+		max-width: 655px;
+	}
+	&__vector {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+	&__navigator {
+		position: absolute;
+		left: 25px;
+		top: 0px;
+		&-link:first-of-type {
+			color: var(--dark);
+			cursor: pointer;
+			transition: 0.3s;
+		}
+		&-link:hover:first-of-type {
+			color: #7c7c7c;
+		}
+	}
+	&__title {
+		margin: 0px 0px 40px;
+		color: var(--black);
+		text-transform: initial;
+		font-style: normal !important;
+
+		@media (max-width: 991px) {
+			margin-bottom: 40px;
+			font-size: 34px;
+		}
+		
+		@media (max-width: 767px) {
+			font-size: 32px;
+		}
+		@media (max-width: 450px) {
+			margin: 0px 0px 40px;
+			font-size: 30px;
+		}
+		@media (max-width: 350px) {
+			font-size: 28px;
+		}
+	}
+	&__text {
+		max-width: 800px;
+		height: 76vh;
+		overflow-y: auto;
+		scrollbar-width: none;
+		@media (max-width: 991px) {
+			padding-left: 0;
+		}
+		@media (max-width: 767px) {
+			height: auto;
+		}
+		p,
+		li {
+			font-family: Lato;
+			font-size: 16px;
+			font-style: normal;
+			font-weight: 400;
+			line-height: 150%; /* 24px */
+			color: #050505;
+			margin-bottom: 20px;
+			@media (max-width: 575px) {
+				font-size: 16px;
+			}
+		}
+		li:last-of-type {
+			margin-bottom: 0;
+		}
+		h2:first-of-type {
+			margin: 0px 0px 24px;
+		}
+		h2 {
+			margin: 0px 0px 24px;
+
+			@media (max-width: 350px) {
+				font-size: 23px;
+			}
+		}
+	}
+}
+ol,
+ul {
+	margin-bottom: 48px !important;
+	font-weight: normal;
+	line-height: 1.1;
+	@media (max-width: 991px) {
+		padding-left: 30px !important;
+	}
+	@media (max-width: 450px) {
+		padding-left: 20px !important;
+	}
+}
+li {
+	margin-bottom: 2px !important;
+}

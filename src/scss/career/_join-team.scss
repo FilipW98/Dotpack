@@ -1,0 +1,396 @@
+.join-team {
+    // .join-team__outer
+
+    &__outer {
+        width: 100%;
+
+        display: flex;
+        justify-content: center;
+
+        margin-bottom: 80px;
+    }
+
+    // .join-team__inner
+
+    &__inner {
+        max-width: calc(1072px + 80px);
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        // padding: 0 40px;
+    }
+
+    // .join-team__title
+
+    &__title {
+        margin-bottom: 48px;
+        padding: 0 25px;
+        text-align: center;
+        margin-top: 40px;
+
+        @media (max-width: 575px) {
+            i {
+                display: block;
+            }
+        }
+    }
+
+    // // .join-team__splide-container
+
+    // &__swiper-container {
+    //     max-width: inherit;
+    //     width: inherit;
+    // }
+
+    // .join-team__splide
+
+    &__splide {
+        max-width: inherit;
+        width: inherit;
+
+        cursor: url("/wp-content/uploads/2024/10/Frame-10000046482.svg"),
+            auto !important;
+    }
+
+    // .join-team__splide-track
+
+    &__splide-track {
+        max-width: inherit;
+        width: inherit;
+
+        align-items: center;
+
+        cursor: url("/wp-content/uploads/2024/10/Frame-10000046482.svg"),
+            auto !important;
+    }
+
+    &__splide-list {
+        max-width: inherit;
+        width: inherit;
+        min-height: 550px;
+
+        align-items: center;
+    }
+
+    // .join-team__splide-slide
+
+    &__splide-slide {
+        // max-width: 324px;
+        // width: 100%;
+        // max-height: 454px;
+        // height: 100%;
+        max-width: 100%;
+        width: 324px;
+        max-height: 100%;
+        height: 454px;
+
+        position: relative;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+
+        transition: 0.4s;
+
+        // margin-right: 16px;
+
+        &.is-active {
+            // max-width: 392px;
+            // // max-height: none;
+            // // height: 550px;
+            // height: 550px;
+            width: 392px;
+            height: 550px;
+
+            // transition: 0.4s ease;
+        }
+    }
+
+    &__slide-inner {
+        max-width: inherit;
+        width: inherit;
+        max-height: inherit;
+        height: inherit;
+    }
+
+    // .join-team__slide-img
+
+    &__slide-img {
+        max-width: inherit;
+        width: inherit;
+        max-height: inherit;
+        height: inherit;
+
+        border-radius: 20px;
+        overflow: hidden;
+
+        picture {
+            max-width: inherit;
+            width: inherit;
+            max-height: inherit;
+            height: inherit;
+        }
+
+        img {
+            max-width: inherit;
+            width: inherit;
+            max-height: inherit;
+            height: inherit;
+
+            object-fit: cover;
+            object-position: center;
+
+            // transition: 0.4s ease;
+        }
+    }
+
+    // .join-team__slide-content
+
+    &__slide-content {
+        display: flex;
+        flex-direction: column;
+
+        position: absolute;
+        left: 33px;
+        bottom: 30px;
+    }
+
+    // .join-team__contetn-name
+
+    &__contetn-name {
+        color: var(--white);
+
+        margin-bottom: 8px;
+    }
+
+    // .join-team__content-position
+
+    &__content-position {
+        color: var(--white);
+    }
+}
+
+.h-40 {}
+
+.fade {}
+
+.animate {}
+
+.splide {}
+
+.splide-wrapper {}
+
+.splide-slide {}
+
+.body-18 {}
+
+.body-16 {}
+
+// .join-team {
+// 	&__outer {
+// 		max-width: 1440px;
+// 		margin: 120px auto 0;
+// 		@media (max-width: 991px) {
+// 			margin: 100px auto 0px;
+// 		}
+// 		@media (max-width: 450px) {
+// 			margin: 88px auto 0px;
+// 		}
+// 	}
+
+// 	&__slider_first {
+// 		display: flex;
+// 		justify-content: center;
+// 	}
+
+// 	&__title {
+// 		text-align: center;
+// 		margin-bottom: 48px;
+// 	}
+// }
+
+// .splide-container {
+// 	position: relative;
+// 	margin: 0 auto;
+// 	display: flex;
+// 	align-items: center;
+// 	max-width: 1072px;
+// 	width: 100%;
+// }
+// .join-team__splide {
+// 	width: 100%;
+// 	max-width: 1072px;
+// 	width: 1072px;
+// }
+// .splide-wrapper {
+// 	max-width: 1072px;
+// 	transform-style: initial !important;
+// 	cursor: url('https://dot.hiforyou.pl/wp-content/uploads/2024/10/Frame-10000046482.svg'), auto !important;
+// }
+
+// // .splide-slide.splide-slide-active {
+// // 	// max-width: 392px !important;
+// // 	// width: 100% !important;
+// // 	// height: 551px !important;
+// // }
+// .splide-slide.splide-slide-prev {
+// 	// width: 324px !important;
+// 	// height: 454px !important;
+// 	// transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) scale(1) !important;
+// 	align-self: center;
+// }
+// .splide-slide.splide-slide-next {
+// 	// width: 324px !important;
+// 	// height: 454px !important;
+// 	// transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) scale(1) !important;
+// 	align-self: center;
+// }
+
+// .splide-slide {
+// 	cursor: url('https://dot.hiforyou.pl/wp-content/uploads/2024/10/Frame-10000046482.svg'), auto !important;
+// 	position: relative;
+// 	max-width: 392px;
+// 	//   width: 100% !important;
+// 	height: 551px !important;
+
+// 	display: flex;
+// 	flex-direction: column;
+// 	justify-content: end;
+// 	align-items: self-start;
+// 	@media (max-width: 991px) {
+// 		max-height: 400px;
+// 	}
+// 	@media (max-width: 767px) {
+// 		max-height: 353px;
+// 	}
+// 	//   margin-right: 16px;
+
+// 	&-img {
+// 		position: relative;
+// 		width: 100%;
+// 		height: 100%;
+// 		overflow: hidden;
+
+// 		img {
+// 			width: 100%;
+// 			height: 100%;
+// 			position: absolute;
+// 			object-fit: cover;
+// 			z-index: -1;
+// 			border-radius: 20px;
+// 			transition: 0.3s ease-in-out;
+// 		}
+// 	}
+
+// 	&-content {
+// 		position: absolute;
+// 		bottom: 29px;
+// 		left: 33px;
+// 		&__text {
+// 			color: var(--white);
+// 		}
+// 		.person-name {
+// 			margin-bottom: 8px;
+// 		}
+// 	}
+// }
+
+// .splide-slide-shadow-right,
+// .splide-slide-shadow-left {
+// 	display: none !important;
+// }
+
+
+
+section.join-team {
+    // position: relative;
+    // width: 100%;
+    // min-height: 100vh;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    // background: #2196f3;
+    // overflow: hidden;
+    // max-width: 1073px;
+}
+
+.join-team {
+    &__inner {
+        max-width: 1075px;
+        margin: 0 auto;
+    }
+
+    .swiper {
+        width: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .swiper-slide {
+        width: 392px;
+        height: 550px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: self-start;
+        cursor: url("/wp-content/uploads/2024/10/Frame-10000046482.svg"), auto !important;
+
+        @media (max-width: 575px) {
+            width: 274px;
+            height: 385px;
+        }
+    }
+
+    .swiper-pagination {
+        display: none !important;
+    }
+
+    // .swiper-slide span {
+    //     text-transform: uppercase;
+    //     color: #fff;
+    //     background: #1b7402;
+    //     padding: 7px 18px 7px 25px;
+    //     display: inline-block;
+    //     border-radius: 0 20px 20px 0px;
+    //     letter-spacing: 2px;
+    //     font-size: 0.8rem;
+    //     font-family: "Open Sans", sans-serif;
+    // }
+
+
+    // .swiper-slide h2 {
+    //     color: #fff;
+    //     font-family: "Roboto", sans-serif;
+    //     font-weight: 400;
+    //     font-size: 1.3rem;
+    //     line-height: 1.4;
+    //     margin-bottom: 15px;
+    //     padding: 25px 45px 0 25px;
+    // }
+
+    // .swiper-slide p {
+    //     color: #fff;
+    //     font-family: "Roboto", sans-serif;
+    //     font-weight: 300;
+    //     display: flex;
+    //     align-items: center;
+    //     padding: 0 25px 35px 25px;
+    // }
+
+    // .swiper-slide svg {
+    //     color: #fff;
+    //     width: 22px;
+    //     height: 22px;
+    //     margin-right: 7px;
+    // }
+
+
+    .swiper-3d .swiper-slide-shadow-left,
+    .swiper-3d .swiper-slide-shadow-right {
+        background-image: none;
+    }
+}

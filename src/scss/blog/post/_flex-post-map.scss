@@ -1,0 +1,19 @@
+.post-map{
+    &__outer{
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 0px 0px 88px;
+    }
+
+    &__img{
+        img{
+            width: 100%;
+            object-fit: cover;
+            max-width: 902px;
+        }
+        picture{
+            display: flex;
+            justify-content: center;
+        }
+    }
+}

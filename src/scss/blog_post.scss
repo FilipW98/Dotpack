@@ -1,0 +1,19 @@
+@import "_basic.scss";
+@import "blog/post/_flex-img-text.scss";
+@import "blog/post/_flex-contents.scss";
+@import "blog/post/_flex-columns-text.scss";
+@import "blog/post/_flex-full-img.scss";
+@import "blog/post/_flex-post-map.scss";
+@import "flex-components/_its-simple.scss";
+@import "flex-components/_read-more.scss";
+
+.single-post {
+    &__inner {
+        padding-bottom: 32px;
+        @media (max-width: 450px) {
+            padding-bottom: 24px;
+        }
+
+        overflow-x: hidden;
+    }
+}

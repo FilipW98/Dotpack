@@ -1,0 +1,25 @@
+.our-mission {
+   &__wrapper {
+      padding: 0 10px;
+   }
+
+   .left {
+      // .left__bold-title
+
+      &__bold-title {
+         display: grid;
+
+         @media (max-width: 575px) {
+            font-size: 24px;
+         }
+      }
+
+      &__listOf-sub-item {
+         padding: 0;
+      }
+
+      &__list-wrapper {
+         gap: 16px;
+      }
+   }
+}
