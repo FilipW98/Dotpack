@@ -9,7 +9,7 @@
                 if(have_rows('post_flex_fields')):
                     while(have_rows('post_flex_fields')): the_row('');
                     $component_name = get_row_layout();  
-                    echo //$component_name;                
+                               
                     get_template_part('/template-parts/blog/post/flex', $component_name);  ?>
                 <?php endwhile; endif  ?>
             </div>
