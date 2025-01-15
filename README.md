@@ -13,3 +13,7 @@ Dotpack is a company specializing in optimizing logistics for businesses. This w
     - a blog page, <br>
     - posts with flexible sections that admins can add in any order.
 </div>
+<br>
+<div align="center" >
+   <a href="https://dotpack.pl/" target="_blank" rel="noreferrer"> <img src="./live-icon.png" alt="live icon" width="80" height="40"/> </a> 
+</div>
